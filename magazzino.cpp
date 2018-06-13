@@ -683,5 +683,5 @@ int main()
         {
             cout << " Numero errato " << endl ; 
         }
-    }//Fine di int main (diventa fine switch ) 
+    }
 }
