@@ -638,9 +638,9 @@ int main()
             string opcliente[]={"visualizza prodotto","acquista"};
             for ( int i=0 ; i< 2; i++)
             {
-                cout << i+1 << "\t" << opclient[i] << endl ; 
+                cout << i+1 << "\t" << opcliente[i] << endl ; 
             }
-            cout << " scelga l' operazione da effettuare " << endl 
+            cout << " scelga l' operazione da effettuare " << endl ;
             cin>>daEseguire;
             switch(daEseguire)
             {
